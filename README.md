@@ -38,10 +38,10 @@ The Job Portal System is a full-stack web application designed to streamline the
 >  ![  front page ](images/dashboard.jpeg)
 >
 > #  when click Add jobpost
->  ![ new add jobpost](images/click_on_jobpost.jpeg)
+>  ![add jobpost](images/clickonjobpost.jpeg)
 >
 > #  demo video
-> [▶️ Watch Demo Video](videos/final_output_video.mp4)
+> [▶️ Watch Demo Video](videos/finaloutputvideo.mp4)
 
 
 ---
