@@ -47,7 +47,7 @@ The Job Portal System is a full-stack web application designed to streamline the
 [▶️ Watch Demo Video](images/final-output-video.mp4)
 
 
-if not opening the images go to images folder
+when click the video then it not showing so we have to select  view raw then it downloaded in our pc.
 ---
 
 ## 🚀 Getting Started
