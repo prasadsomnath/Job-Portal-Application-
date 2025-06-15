@@ -34,8 +34,15 @@ The Job Portal System is a full-stack web application designed to streamline the
 
 ## 📸 Screenshots
 
-> _(Add screenshots here if available, such as dashboard view, job listing form, search results, etc.)_
+> # dashboard image
 >  ![  front page ](images/dashboard.jpeg)
+>
+> #  when click Add jobpost
+>  ![ new add jobpost](images/click on jbpost.jpeg)
+>
+> #  demo video
+> [▶️ Watch Demo Video](videos/final output video.mp4)
+
 
 ---
 
