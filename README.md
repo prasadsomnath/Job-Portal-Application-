@@ -42,7 +42,7 @@ The Job Portal System is a full-stack web application designed to streamline the
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 8 or higher
 - Node.js & npm
 - Maven
 - MySQL
@@ -122,6 +122,6 @@ Free APIs & Open Source Libraries
 
 📬 Contact
 Prasad Somnath
-📧 prasadsomnath@email.com (replace with actual)
-🔗 LinkedIn
-🔗 GitHub
+📧 prasadsomnath323@gmail.com
+🔗 LinkedIn :www.linkedin.com/in/prasad-somnath-535547301
+🔗 phone no : 9591675125
